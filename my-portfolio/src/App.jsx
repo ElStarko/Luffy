@@ -113,7 +113,7 @@ const PROJECTS = [
     tags: ["Node.js", "Socket.io", "Redis", "PostgreSQL"],
     initials: "PM",
     gradient: ["#B0562F", "#8C6A34"],
-    repo: "https://github.com/ElStarko/REPLACE_ME",
+    repo: "https://github.com/ElStarko",
   },
   {
     title: "Live chat application",
@@ -122,7 +122,7 @@ const PROJECTS = [
     tags: ["JavaScript", "Socket.io", "Node.js", "JWT"],
     initials: "LC",
     gradient: ["#2E7D6E", "#204944"],
-    repo: "https://github.com/ElStarko/REPLACE_ME",
+    repo: "https://github.com/ElStarko/York",
   },
 ];
 
